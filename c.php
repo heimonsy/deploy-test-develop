@@ -1,2 +1,2 @@
 <?php
-kasdfklasljdf
+phpinfo();

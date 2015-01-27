@@ -1,4 +1,5 @@
 <?php
 
+$a = null;
 
-echo "love";
+echo $a ?: 'hehe';

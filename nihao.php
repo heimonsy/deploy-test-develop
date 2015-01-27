@@ -1,5 +1,3 @@
 <?php
 
-echo "nihao";
-
-echo "\n";
+echo "nihao\n";
